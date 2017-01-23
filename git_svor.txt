@@ -1,1 +1,7 @@
 #Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd			Færir á milli skráar í tölvunni
+	cd ~		Færir þig á heimasvæðið
+	ls			Gefur lista af öllum skrám á svæðinu
+	pwd			Segir hvar þú ert
+	mkdir		Býr til nýtt directory
