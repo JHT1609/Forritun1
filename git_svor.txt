@@ -16,3 +16,6 @@
 	a) git diff 				Sýnir muninn á commits
 	b) git diff --staged 		This form is to view the changes you staged for the next commit relative to the named <commit>
 	c) git diff commit1 commit2	Sýnir Munnin á mill Commit 1 og 2
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+		Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later
