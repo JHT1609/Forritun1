@@ -33,3 +33,7 @@
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 		Þegar þú ert að vinna með öðrum
+
+
+9.	Hver fann upp GIT?
+		Linus Torvalds
