@@ -22,3 +22,6 @@
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 		Útgáfu stýring
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+		Alltaf þegar þú gerir breytingar
